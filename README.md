@@ -1,6 +1,10 @@
 # minimum_fts
+This is a minimal full text search engine program implemented in Go. It allows the user to understand the simplified structure of the fts.
 
-![スクリーンショット 2024-05-04 9 26 55](https://github.com/shiga0/minimum_fts/assets/13078565/b23ddcc6-7981-42aa-b4db-0b29d89e4a40)
+![スクリーンショット 2024-05-17 9 21 23](https://github.com/shiga0/minimum_fts/assets/13078565/f35a4b4f-d252-40ac-9b79-c018ed6f5f27)
+
+## Dependencies
+-  [snowball](https://github.com/kljensen/snowball?tab=readme-ov-file): Stemming language and algorithms.
 
 ## Usage
 
